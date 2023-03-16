@@ -48,3 +48,40 @@ champagne n.香槟酒
 cocktail n.鸡尾酒；混合物
 ale n.麦芽啤酒
 sip vi.小口喝 vt.小口喝 n.一小口
+sober adj.清醒的；持重的；冷静的
+alert adj.警觉的，警惕的；意识到 vt.使...警觉 n.警戒；戒备；警报
+attentive adj.注意的；专心的；关心的；肯帮忙的
+cautious adj.小心的；谨慎的
+discreet adj.（言行）谨慎的，慎重的，考虑周到的
+watchful adj.注意的，警惕的；提防的
+deliberate adj.故意的；蓄意的；不慌不忙的；小心翼翼的 vi.仔细考虑；深思熟虑
+meticulous adj.细心的，小心翼翼的
+3
+allowance n.津贴；补贴；补助；限额；定量
+subsidy n.补贴；补助金；津贴
+bonus n.奖金；红利
+alter vt.改变，更改，改动 vi.改变
+vary vi.相异，不同；变化，变更
+switch n.开关，闸；（突然彻底的）转变，改变 vi.改变，转变 vt.使...改变，对调
+reform n.改革 vt.改革，改进
+transform vt.使改变形态；使改变外观
+antarctic n.南极地区
+arctic n.北极；北极的；北极地区的；极冷的
+polar adj.极地的；近地级的
+continental adj.大洲的；大陆的；欧洲大陆的（不包含英国和爱尔兰）
+equator n.赤道
+horizon n.地平线；眼界
+longtitude n.经度
+latitude n.纬度；选择（做什么事或做事方式）的自由
+arbitrary adj.任意的；武断的；随心所欲的
+random adj.随机的，随意的
+indiscriminate adj.随意的；恣意的；不加选择的；不分青红皂白的
+casual adj.不经意的；漫不经心的；马虎的；非正式的
+irregular adj.不整齐的；不平整的；参差不齐的；无规律的；不合乎常规的
+architect n.建筑师；设计师
+mansion n.公馆；宅第；大厦
+skyscraper n.摩天大楼
+pyramid n.金字塔；金字塔式的组织
+tower n.塔；塔形部分
+arch n.拱；拱门；拱状物 v.弓着
+vault n.金库，保险库；拱顶，穹窿

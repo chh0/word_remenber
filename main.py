@@ -57,6 +57,8 @@ def RanOrder(dict, option):
         word = input()
         if i==word:
             print(str2green('正确！\n'))
+        elif word == '!quit':
+            return
         else:
             if WRONG_REPEAT:
                 wrongs.append(i)
@@ -80,15 +82,24 @@ def RanOrder(dict, option):
 CONTENT = read(PATH)
 LIST = Con2DictList(CONTENT)
 
-while(1):
-    u = input('选择单元(1-' + str(len(LIST)) + ')：')
-    dict = LIST[int(u)-1]
-    order = input('选择模式，顺序1，乱序2-9：')
-    WRONG_REPEAT = not not int(input('需要重复错误单词吗，不需要0，需要1：'))
-    print()
-    RanOrder(dict, int(order)-1)
-    print('本单元结束\n')
+def main():
+    global WRONG_REPEAT
+    while(1):
+        u = input('选择单元(1-' + str(len(LIST)) + ')，选0结束：')
+        if u == '0':
+            return
+        dict = LIST[int(u)-1]
+        order = input('选择模式，顺序1，乱序2-9：')
+        if not '0' == input('需要重复错误单词吗，不需要0，需要1：'):
+            WRONG_REPEAT = True
+        else:
+            WRONG_REPEAT = False
+        print('          ' + str(WRONG_REPEAT))
+        RanOrder(dict, int(order)-1)
+        print('本单元结束\n')
 
+if __name__ == '__main__':
+    main()
 # for i in list:
 #     for key in i:
 #         print(key, i[key])
