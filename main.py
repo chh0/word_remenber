@@ -70,6 +70,8 @@ def RanOrder(dict, option):
             word = input()
             if i==word:
                 print(str2green('正确！\n'))
+            elif word == '!quit':
+                return
             else:
                 if WRONG_REPEAT:
                     wrongs.append(i)
@@ -94,7 +96,6 @@ def main():
             WRONG_REPEAT = True
         else:
             WRONG_REPEAT = False
-        print('          ' + str(WRONG_REPEAT))
         RanOrder(dict, int(order)-1)
         print('本单元结束\n')
 

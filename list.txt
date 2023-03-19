@@ -85,3 +85,57 @@ pyramid n.金字塔；金字塔式的组织
 tower n.塔；塔形部分
 arch n.拱；拱门；拱状物 v.弓着
 vault n.金库，保险库；拱顶，穹窿
+4
+aspiration n.渴望；抱负；志向
+ambition n.追求的目标；野心；志向
+pant vi.气喘；喘息
+aspire vi.渴望（成就）；有志（成为）
+crave vt.渴望；热望；恳求
+yearn vi.渴望；渴求
+assault n.侵犯他人身体（罪）；攻击；突击 vt.猛烈攻击，袭击
+onset n.开端，发生，肇始
+militant adj.动武的；好战的；有战斗性的 n.激进分子
+intrude vi.闯入；侵入；打扰
+assemble vt.使...聚集；收集；组装 vi.集合；聚集
+aggregate n.总数，合计 adj.总计的 vt.对...进行合计
+congregate vi.群集；聚集；集合
+gather vi.聚集；集合 vt.猜想；推断；收集；聚集，积聚（力量、精神等）
+assortment n.各种各样
+assorted adj.各种各样的；混杂的；什锦的
+assign vt.分配（某物）；分派，布置（工作，任务等）；指定；指派
+allot vt.分配，配给（时间、钱财等）；分派（任务等）
+dole n.失业救济金 vt.发放，发给（食物、钱等）；施舍
+dispense vt.分配；分发；施与，提供
+author n.作者；作家；（尤指计划或思想的）创造者，发起人
+blacksmith n.铁匠
+midwife n.助产士；接生员 vt.助胎儿出生；促成
+plumber n.水暖工；管子工
+shepherd n.牧羊人；羊倌 vt.引领；护送
+knight n.骑士；爵士 vt.封（某人）为爵士
+jockey n.赛马骑师 vi.运用手段
+operative n.工作人员；技术工人；特工人员 adj.可使用的；在使用中
+5
+auxiliary adj.辅助的；备用的
+subsidiary adj.辅助的；附带的；次要的；附属的 n.子公司；辅助者
+fringe n.边缘，流苏 adj.（地区或群体的）边缘的；次要部分的，外围的；附加的
+supplementary adj.增补性的；补充性的；额外的；外加的 n.补充者；填充物
+redundant adj.被裁减的；多余的
+appendix n.附录；阑尾；附加物
+annex vt.强占，并吞（国家、地区等）
+contingent adj.依情况而定 n.（代表某一组织或国家的）代表团；（军队的）分遣队
+affiliate vi.使...隶属，使...并入（较大的团体、公司、组织） n.附属机构；分支结构；分公司；分会
+aviation n.航空；飞机制造业
+aerospace n.航天航空（工业）；航空航天技术
+satellite n.人造卫星；卫星
+glide vi.滑行；滑动；滑翔
+glider n.滑翔机
+cockpit n.驾驶舱，驾驶座
+aerial adj.从飞机上来的；空中的；空气中的
+airborne adj.空气传播的；空中的
+shuttle v.穿梭往来 n.来往于两地的航班
+embark vi.上船 vt.把...装到船上
+bachelor n.单身汉，学士
+diploma n.学位证书；文凭课程
+credentials n.资历；资格；资格证书；证明书
+commencement n.开始；开端；学位授予典礼；毕业典礼
+graduate n.大学毕业生 vi.毕业 vt.授予学位
