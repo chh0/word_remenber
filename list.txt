@@ -139,3 +139,47 @@ diploma n.学位证书；文凭课程
 credentials n.资历；资格；资格证书；证明书
 commencement n.开始；开端；学位授予典礼；毕业典礼
 graduate n.大学毕业生 vi.毕业 vt.授予学位
+benevolent adj.慈善的，仁慈的
+merciful adj.宽大的，仁慈的
+generous adj.慷慨的；大方的；宽厚的；宽宏大量的
+lenient adj.宽大的，宽容的，仁慈的
+charity n.慈善机构；慈善；赈济；仁爱；宽容
+bewilder vt.使...迷惑；使...糊涂
+perplex vt.使...困惑
+baffle vt.使...困惑；难住
+scorn vt.轻蔑；鄙视；轻蔑地拒绝 n.轻蔑；鄙视
+ruthless adj.残酷无情的；残忍的
+relentness adj.不停的；持续强烈的；严格的；苛刻的；无情的
+restless adj.坐立不安的；不耐烦的；没有睡眠的
+solitary adj.独自的；喜欢（或惯于）独处的；单个的；唯一的
+tickle vt.胳肢；逗乐；使...高兴 vi.发痒
+blush vi.脸红，涨红了脸 n.面部泛起的红晕
+limp vi.瘸着走；（受损后）缓慢行进，艰难地移动 adj.无力的；无生气的；无精神的；柔软的；不直挺的 n.跛行
+6
+blast n.爆炸；（爆炸引起的）气浪，冲击波；突如其来的强劲气流；严厉的批评 vt.炸毁，把...炸成碎片；严厉批评；猛烈抨击
+wind n.风，气流 vt.曲折而行；蜿蜒迂回
+hurricane n.飓风
+tornado n.龙卷风；旋风
+blaze vi.熊熊燃烧；闪耀；发亮光 n.烈火；火灾；（感情的）迸发，发泄
+dazzle vt.使...目眩，使...眼花
+glare vi.怒目而视；发出耀眼的光 n.刺眼的光；怒视；瞪眼
+bleak adj.不乐观的；无望的；阴冷的；荒凉的
+stark adj.荒凉的；粗陋的；严酷的；赤裸裸的；完全的；十足的
+grim adj.严肃的，坚定的；阴冷的；令人不快的；阴森的；凄凉的；冷酷的
+barracks n.营房；兵营；简陋的大房子
+escort n.护送者；护卫队；护卫舰（或汽车；飞机） vt.护卫；护送
+morale n.士气
+logistics n.后勤；物流；组织工作
+foe n.敌人；仇敌
+fort n.要塞；堡垒；城堡；军营
+confederation n.联盟；联合体
+blunder n.愚蠢（或粗心）的错误 vi.犯愚蠢的（或粗心的）错误
+stumble vt.绊脚；跌跌撞撞地走；蹒跚而行；磕磕绊绊地说 n.踉跄；绊脚
+stagger vi.摇摇晃晃地走 vt.使震惊；错开
+stride vi.大步走；阔步行走 n.大部；一步（的距离）；进展；进步
+tread vi.踩；踏；行走；步行 vt.行走；步行 n.梯级；轮胎花纹
+grope vi.摸索；搜索；搜寻；探寻；（用手）摸索着往前走
+hover vi.翱翔；盘旋；（人）踌躇，彷徨；徘徊
+bolster vt.巩固；加强 n.长枕
+prop vt.支撑 n.支柱；支持物；支持者
+uphold vt.支持，维护
