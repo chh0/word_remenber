@@ -183,3 +183,92 @@ hover vi.翱翔；盘旋；（人）踌躇，彷徨；徘徊
 bolster vt.巩固；加强 n.长枕
 prop vt.支撑 n.支柱；支持物；支持者
 uphold vt.支持，维护
+7
+bouquet n.花束；香味，芬芳
+cluster n.簇，团，束，串 vi.聚集；群聚
+fragrant adj.香的；芳香的
+botany n.植物学
+lily n.百合花
+mint n.薄荷 vt.铸造
+wither vt.使...枯萎，凋谢 vi.枯萎；凋谢；破灭，消失
+boycott n.抵制 vt.拒绝购买（或使用、参加）
+deny vt.否定；否认；拒绝接受；拒绝给予
+reject vt.拒绝接受；不予考虑；拒收；不录用 n.被弃之物或人；次品
+brilliant adj.很成功的；绝妙的；杰出的
+articulate vt.明确表达；清楚说明；清晰发（音） vi.与...合成整体
+eloquent adj.雄辩的，有口才的；流利的；传神的
+eloquence n.雄辩，善辩，口才
+proficient adj.熟练的；娴熟的；精通的
+expertise n.专门知识；专门技能；专长
+Buddhism n.佛教
+Christ n.基督
+Christian adj.基督教的；信奉基督教的 n.基督徒
+Easter n.复活节
+Jesus n.耶稣；耶稣基督
+Catholic n.天主教信徒 adj.天主教的
+bully n.仗势欺人者；横行霸道者 vt.恐吓；伤害；胁迫
+menace vt.危及；威胁到 n.威胁；危险的人（或物）
+deter vt.制止；阻止；威慑
+blackmail n.勒索；敲诈；胁迫；威胁 vt.勒索；敲诈；要挟
+solicit vt.索求，请求...给予（援助、钱或信息）
+bureaucrat n.官僚主义者；官僚
+bureaucratic adj.官僚的；官僚主义的
+8
+casualty n.伤员，亡者；毁坏物
+victim n.受害者；受骗者
+impair vt.损害，削弱
+detriment n.伤害；损害；造成伤害（或损害）的事物
+predator n.捕食性动物；剥削者；掠夺者
+cellar n.地窖；地下室
+balcony n.阳台；（剧院的）楼厅；楼座
+basement n.地下室
+dome n.穹顶；圆屋顶；穹状建筑物
+chamber n.会议厅；（做特殊用途的）房间，室
+porch n.门廊，门厅
+characterize vt.是...的特征；以...为典型；描述，刻画，表现
+panorama n.全景；全面叙述，综合研究
+recite vt.背诵，吟诵；（口头）列举
+allude vi.暗指
+appraise vt.估量；估价；对（某人的工作）做出评价
+stipulate vt.规定；明确要求
+chorus vt.合唱；齐声说 n.合唱曲；合唱团；副歌
+choir n.唱诗班；合唱团
+bass adj.低音的；低声调的 n.（音乐、乐器、声乐等的）低音，低音部；低音电吉他
+rehearse vt.排练；排演；默诵；默默地练习；照搬 vi.排练
+symphony n.交响乐；交响曲
+solo adj.独自的；单独的；独奏的 n.独唱；独奏；独舞；单人表演
+climate n.气候；倾向；思潮
+atmosphere n.大气，大气层，大气圈；气氛；氛围
+forecast vt.预报；预测 n.预报；预测
+tropic n.回归线
+humid adj.温暖潮湿的；湿热的
+environmental adj.自然环境的；环境的
+9
+clip vt.夹住；别住；（剪）掉；修剪 n.夹子，回形针
+clamp vt.（用夹具）加紧，夹住，固定 n.夹具；夹子；夹钳
+trim vt.修剪；修整；切去，割掉，剪下；削减，缩减 adj.整齐的；精心照管的
+chop vt.切碎；剁碎；（大幅度地）削减，降低 n.肉排；劈；砍；剁
+mow vt.割，修剪
+cloak vt.遮盖；掩盖 n.遮盖物；披风
+conceal vt.隐藏；隐瞒；掩盖
+veil vt.遮掩；掩饰 n.面纱；借口；托词；掩盖
+disguise vt.假扮；装扮；伪装；掩蔽；掩饰 n.伪装物；假扮；装扮
+collide vi.碰撞；相撞；严重不一致；冲突
+crash vi.撞车；碰撞；贬值，倒闭；暴跌；崩溃 n.撞车；碰撞；暴跌；倒闭；破产；失败
+clash vi.打斗，打架；争斗；迥然不同；相矛盾 n.打斗，打架；争论；差别
+bump vt.把...撞到某物 vi.碰，撞；颠簸行进 n.碰撞；肿块；隆起
+slam vt.把...砰地关上；猛烈抨击 n.猛关（或推、摔、撞等）；猛摔（或撞等）的声音
+butt vt.用头顶（角）撞 n.（武器或工具的）粗大的一端；烟蒂；（头的）顶撞
+colony n.殖民地；殖民地定居者群体；（来自同一地方，职业或兴趣相同的）聚居人群
+colonial adj.殖民地的；殖民国的 n.生活在殖民地的宗主国国民
+slave vi.苦干；辛勤地工作 n.奴隶；完全依赖（某事物）的人
+bondage n.奴役；束缚
+commit vt.做出（错或非法的事）；承诺，保证；花（钱或时间） vi.忠于（某个人、机构等）；全心全意投入（工作、活动等）
+commitment n.承诺；许诺；献身；奉献；（资金、时间、人力的）花费，使用
+errand n.差事；差使
+obligation n.义务；职责；责任
+commodity n.商品；有用的东西；有使用价值的事物
+bid vt.出（价） vt.投标；努力争取 n.买方的出价；努力争取
+invoice vt.给...开发票 n.发票；（发货或服务）费用清单
+refund vt.退还；退（款） n.退款；返还款
+swap vt.交换（东西）；用...替换 n.交换；交换物
